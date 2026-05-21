@@ -6,3 +6,4 @@ celda27_staging.py
 check_columns_cell27.py
 validate_cell27.py
 check_silver_schema.py
+recreate_Silver_TmpFactClaim_DOUBLE.sql
