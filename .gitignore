@@ -3,3 +3,4 @@ create_bgla_FactClaim_DOUBLE.sql
 nb_FactClaimPayment.ipynb
 create_bgla_FactClaimPayment_DOUBLE.sql
 celda27_staging.py
+check_columns_cell27.py
