@@ -5,3 +5,4 @@ create_bgla_FactClaimPayment_DOUBLE.sql
 celda27_staging.py
 check_columns_cell27.py
 validate_cell27.py
+check_silver_schema.py
